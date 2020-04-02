@@ -159,3 +159,8 @@ C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\bin\Debug\net
 C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\GitOurProductExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\GitOurProductExample\GitOurProductExample\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
